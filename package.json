@@ -18,6 +18,8 @@
   "homepage": "https://github.com/mailtoak82/Test-Grunt",
   "devDependencies": {
     "grunt": "^0.4.5",
-    "grunt-contrib-cssmin": "^0.12.2"
+    "grunt-contrib-cssmin": "^0.12.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-htmlhint": "^0.4.1"
   }
 }
